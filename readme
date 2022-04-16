@@ -1,2 +1,3 @@
 Computer-Aided Diagnosis (CAD) is a non-invasive procedure that performs the detection of COVID-19 using deep learning will assist to recognize this virus in the initial stages so that it will register in elevating the chances of early recovery of the COVID-19 victims worldwide. Here CT scan images were used and the insufficient standard datasets for COVID-19 particularly in lung CT Images are the prior reason for this study.
 The authors would like to thank the providers of the publicly available lungs CT scan images of the COVID-19 dataset from KAGGLE, which facilitated training, testing, and validation.
+Use Cite as file for adding reference or cite this article to avoid further liscense issues.
